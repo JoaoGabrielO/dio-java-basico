@@ -1,4 +1,4 @@
-package metodo;
+package edu.joao.primeirasemana.metodo;
 
 import java.util.Scanner;
 

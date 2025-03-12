@@ -1,4 +1,4 @@
-package variaveis;
+package edu.joao.primeirasemana.variaveis;
 
 import java.util.Scanner;
 
